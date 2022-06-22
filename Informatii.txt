@@ -1,0 +1,10 @@
++------------------------------+--------+--------------------------------------------------------+---------------------------------------------------------------------------+
+|           Denumire           |  Pret  |                   Culori Disponibile                   |                                    LInk                                   |
++------------------------------+--------+--------------------------------------------------------+---------------------------------------------------------------------------+
+|      Nike Air Max Excee      | 549.99 |        Colour Shown: White/Pure Platinum/Black         |       https://www.nike.com/ro/t/air-max-excee-shoe-psfV5R/CD4165-100      |
+|      Nike Air Max 2021       | 559.99 |      Colour Shown: White/Volt/Blue Crystal/Black       |       https://www.nike.com/ro/t/air-max-2021-shoes-MnC2gN/DR9270-100      |
+|      Nike Air Max 2021       | 559.99 |            Colour Shown: Black/Black/Black             |       https://www.nike.com/ro/t/air-max-2021-shoes-9KHW0P/DH4245-002      |
+|      Nike Air Max 2090       | 599.99 |     Colour Shown: Black/Wolf Grey/Anthracite/White     |       https://www.nike.com/ro/t/air-max-2090-shoe-P8v2dN/CW7306-001       |
+| Nike Air Max Terrascape Plus | 629.99 | Colour Shown: Obsidian/Thunder Blue/Marina/Madder Root | https://www.nike.com/ro/t/air-max-terrascape-plus-shoes-K5mrdC/DN4587-400 |
+|      Jordan Point Lane       | 699.99 |   Colour Shown: Black/Wolf Grey/White/University Red   |    https://www.nike.com/ro/t/jordan-point-lane-shoes-kBMmSV/CZ4166-060    |
++------------------------------+--------+--------------------------------------------------------+---------------------------------------------------------------------------+
